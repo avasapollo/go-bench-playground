@@ -1,4 +1,4 @@
-export ver=v3 && \
+export ver=v4 && \
   go test -run '^$' -bench '^BenchmarkSCompare$' -benchtime 10s -count 8 \
     -cpu 4 \
     -benchmem \
