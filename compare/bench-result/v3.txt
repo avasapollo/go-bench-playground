@@ -1,0 +1,45 @@
+goos: darwin
+goarch: arm64
+pkg: github.com/faceit/go-bench-playground/compare
+BenchmarkSCompare/lines-3-4         	116870403	       104.1 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       105.0 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       104.0 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       105.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       104.8 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       105.2 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       106.2 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-3-4         	100000000	       105.3 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	91128368	       132.2 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	90740899	       133.0 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	91428687	       131.6 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	91218565	       132.3 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	91287784	       131.2 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	91720387	       131.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	90917240	       133.3 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-5-4         	85246621	       133.1 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	65569873	       182.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	65221142	       183.4 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	65621746	       182.3 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	66252038	       181.7 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	66110404	       181.8 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	66267999	       181.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	66289414	       181.6 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-10-4        	66079855	       181.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42447824	       282.9 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42189499	       282.6 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42406528	       282.3 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42590892	       282.6 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42496917	       282.6 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42635122	       282.8 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42248178	       282.4 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-20-4        	42593512	       282.5 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10842304	      1107 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10838770	      1107 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10694920	      1107 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10824610	      1108 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10724504	      1115 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10756268	      1108 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10765564	      1108 ns/op	      48 B/op	       2 allocs/op
+BenchmarkSCompare/lines-100-4       	10856637	      1112 ns/op	      48 B/op	       2 allocs/op
+PASS
+ok  	github.com/faceit/go-bench-playground/compare	494.230s

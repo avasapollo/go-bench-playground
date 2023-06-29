@@ -1,0 +1,45 @@
+goos: darwin
+goarch: arm64
+pkg: github.com/faceit/go-bench-playground/compare
+BenchmarkSCompare/lines-3-4         	1000000000	         8.300 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.274 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.271 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.275 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.305 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.305 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.304 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-3-4         	1000000000	         8.279 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	968768973	        12.37 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	969570240	        12.41 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	965323404	        12.39 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	965346894	        12.38 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	965464431	        12.56 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	957421663	        12.51 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	964131012	        12.40 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-5-4         	965524407	        12.43 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	527313348	        23.05 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	524171256	        23.05 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	526739577	        22.94 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	526211960	        22.89 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	528924093	        22.84 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	527535250	        22.87 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	526927803	        22.84 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-10-4        	519323138	        22.79 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	255168526	        47.53 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	257009539	        47.64 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	255859963	        47.85 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	254817997	        47.16 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	251676835	        47.17 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	250504892	        47.11 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	253008098	        47.88 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-20-4        	253176760	        47.79 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56296664	       213.2 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56293550	       213.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56113868	       213.7 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56479824	       213.4 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56443152	       213.7 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56193136	       213.0 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	56253361	       213.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSCompare/lines-100-4       	55876933	       213.3 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	github.com/faceit/go-bench-playground/compare	526.853s
